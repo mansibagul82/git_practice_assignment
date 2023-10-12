@@ -7,9 +7,9 @@ for(let i=2;i<num;i++){
 }
 if(count==0)
 {
-    console.log("No")
+    console.log("Yes")
 }
 else
 {
-    console.log("Yes")   
+    console.log("No")   
 }
